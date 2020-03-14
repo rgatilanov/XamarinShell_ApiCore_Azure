@@ -1,0 +1,1 @@
+XamarinShell_ApiCore_Azure
